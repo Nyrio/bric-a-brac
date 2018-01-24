@@ -7,6 +7,7 @@
 ##############################################################################
 
 # This program generates a 1d blue-noise file, and saves it in a csv file.
+# The values are between 0 and s-1 where s is the size of a row.
 
 # HOWTO: just run the program and it will request the needed parameters.
 
