@@ -10,7 +10,7 @@
 # purposes in computer graphics : dithering, texture generation, procedural
 # generation, etc.
 
-# HOWTO: just run the program and it will prompt the requested parameters.
+# HOWTO: just run the program and it will request the needed parameters.
 # For the moment it can only generate a PNG image.
 
 
